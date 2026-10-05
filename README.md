@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/dantefb17/ECON-5371-lab/refs/heads/main/Lab_1/
 
 https://raw.githubusercontent.com/dantefb17/ECON-5371-lab/refs/heads/main/Lab_2/generate_synthetic_data.py
 
+https://raw.githubusercontent.com/dantefb17/ECON-5371-lab/refs/heads/main/Lab_3/inflation_synthetic.csv
