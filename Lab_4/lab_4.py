@@ -33,7 +33,7 @@ by cell using the '# %%' markers), or top to bottom as a single script.
 # ============================================================================
 
 # Set the lab folder location.
-LAB_FOLDER = r"\Users\ncachanosky\OneDrive\Research\GitHub\ECON-5371-lab\lab_4"
+LAB_FOLDER = r"/home/nonoriri/Documents/GitHub/ECON-5371-lab/Lab_4/"
 
 import os
 
