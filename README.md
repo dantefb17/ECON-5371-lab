@@ -8,3 +8,5 @@ https://raw.githubusercontent.com/dantefb17/ECON-5371-lab/refs/heads/main/Lab_2/
 https://raw.githubusercontent.com/dantefb17/ECON-5371-lab/refs/heads/main/Lab_3/inflation_synthetic.csv
 
 https://raw.githubusercontent.com/dantefb17/ECON-5371-lab/refs/heads/main/Lab_4/macro_var_synthetic.csv
+
+https://raw.githubusercontent.com/dantefb17/ECON-5371-lab/refs/heads/main/Lab_5/yield_curve_synthetic.csv
