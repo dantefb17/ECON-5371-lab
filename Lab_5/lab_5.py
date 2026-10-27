@@ -62,10 +62,10 @@ pd.set_option('display.precision', 2)
 
 CONFIG = {
     # Where this lab's folder lives on your machine.
-    "lab_folder": r"\Users\ncachanosky\OneDrive\Research\GitHub\ECON-5371-lab\lab_5",
+    "lab_folder": r"/home/nonoriri/Documents/GitHub/ECON-5371-lab/Lab_5/",
 
     # Where is the data located
-    "data": r"\Users\ncachanosky\OneDrive\Research\GitHub\ECON-5371-lab\lab_5\yield_curve_synthetic.csv",
+    "data": r"/home/nonoriri/Documents/GitHub/ECON-5371-lab/Lab_5/yield_curve_synthetic.csv",
 
     # The two variables this lab analyzes, and the order they're
     # analyzed in (this order matters for how the cointegrating vector
